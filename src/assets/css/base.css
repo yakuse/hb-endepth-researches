@@ -1,0 +1,5 @@
+@layer base {
+  body {
+    @apply antialiased font-body bg-zinc-300 tracking-[-0.02em];
+  }
+}

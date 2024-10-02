@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"],
+      "@/atoms/*": ["./src/components/atoms/*"],
+      "@/templates/*": ["./src/components/templates/*"],
+      "@/hoc/*": ["./src/components/hoc/*"],
+      "@/screens/*": ["./src/components/screens/*"],
+      "@/images/*": ["./src/assets/images/*"]
+    }
+  }
+}

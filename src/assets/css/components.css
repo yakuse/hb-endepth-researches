@@ -1,0 +1,5 @@
+@layer components {
+  .title-h1 {
+    @apply tracking-[-0.04em];
+  }
+}
